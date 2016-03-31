@@ -18,7 +18,7 @@
     "babel",
     "webpack"
   ],
-  "author": "Vasanth Krishnamoorthy (http://www.johndavedecano.com)",
+  "author": "John Dave Decano (http://johndavedecano.me)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johndavedecano/ReactJS-WebPack-Redux-Boilerplate/issues"
